@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 72350881357ca1543a21ea87fd53f408, type: 3}
   m_Name: Anillo
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemPrice: 0
-  itemSprite: {fileID: 0}
+  itemName: Anillo Protector
+  itemDescription: Un anillo dorado capaz de imbuir tu cuerpo en magia de proteccion
+  itemPrice: 2
+  itemSprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}

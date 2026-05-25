@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 72350881357ca1543a21ea87fd53f408, type: 3}
   m_Name: Casco
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemPrice: 0
-  itemSprite: {fileID: 0}
+  itemName: Casco de Ades
+  itemDescription: Este es el mismisimo casco que pertenecio al dios del inframundo
+  itemPrice: 1
+  itemSprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}

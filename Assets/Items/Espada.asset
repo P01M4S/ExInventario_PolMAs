@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 72350881357ca1543a21ea87fd53f408, type: 3}
   m_Name: Espada
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemPrice: 0
-  itemSprite: {fileID: 0}
+  itemName: Espada Legendaria
+  itemDescription: "Una espada que alberga 1000 a\xF1os de antiguedad, forjada en
+    los cielos y portada por todos los grandes heroes de estas tierras."
+  itemPrice: 3
+  itemSprite: {fileID: 10915, guid: 0000000000000000f000000000000000, type: 0}
