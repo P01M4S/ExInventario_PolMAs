@@ -15,4 +15,4 @@ MonoBehaviour:
   itemName: Anillo Protector
   itemDescription: Un anillo dorado capaz de imbuir tu cuerpo en magia de proteccion
   itemPrice: 2
-  itemSprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  itemSprite: {fileID: -6184050716912831369, guid: 3dd444437c4922b4a8f31356a79f0c81, type: 3}

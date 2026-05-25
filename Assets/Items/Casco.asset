@@ -15,4 +15,4 @@ MonoBehaviour:
   itemName: Casco de Ades
   itemDescription: Este es el mismisimo casco que pertenecio al dios del inframundo
   itemPrice: 1
-  itemSprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  itemSprite: {fileID: -1483407423975865499, guid: 35e72a6d9e463d347b5bf140bec25965, type: 3}
